@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "How You Like That",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-26T10:25:00.861647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_How_You_Like_That_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_How_You_Like_That_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "Blackpink",
+      "has_synced": true,
+      "path": "select/03_How_You_Like_That_Blackpink.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_How_You_Like_That_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "DITA",
+      "has_synced": true,
+      "path": "select/05_How_You_Like_That_DITA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "Blackpink",
+      "has_synced": false,
+      "path": "select/06_How_You_Like_That_Blackpink.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/07_How_You_Like_That_Song.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/08_How_You_Like_That_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/09_How_You_Like_That_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/10_How_You_Like_That_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/11_How_You_Like_That_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "How You Like That (Live)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/12_How_You_Like_That_(Live)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/13_How_You_Like_That_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/14_How_You_Like_That_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/15_How_You_Like_That_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/16_How_You_Like_That_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "How You Like That?",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/17_How_You_Like_That_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/18_How_You_Like_That_BLACKPINK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_How_You_Like_That_BLACKPINK.txt"
+    }
+  ]
+}
